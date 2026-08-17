@@ -1,0 +1,100 @@
+HYPERTERM PROPRIETARY SOFTWARE LICENSE
+Copyright (c) 2026 hyperNET. All rights reserved.
+
+1. DEFINITIONS
+
+"Software" means HyperTERM and all source code, object code, binaries, assets,
+documentation, interfaces, designs, configuration, scripts, and other materials
+distributed with or as part of the Software.
+
+"Copyright Owner" means hyperNET and the copyright holder(s) identified in the
+repository.
+
+2. LICENSE GRANT
+
+No license is granted except the limited right to view the publicly available
+repository for informational purposes.
+
+The Software is NOT open source and is NOT licensed under the MIT, Apache,
+GPL, BSD, MPL, LGPL, or any other permissive or copyleft license.
+
+3. PROHIBITED USE
+
+Without prior written permission from the Copyright Owner, you may NOT:
+
+- copy the Software or substantial portions of it;
+- reproduce, publish, mirror, or redistribute the Software;
+- modify, adapt, translate, or create derivative works;
+- fork or repackage the Software for distribution;
+- sublicense, sell, rent, lease, or transfer the Software;
+- use the Software or substantial portions of it to build or operate a
+  competing product or service;
+- remove or alter copyright, trademark, license, or attribution notices;
+- use the HyperTERM or hyperNET name, logo, or branding for an unofficial
+  distribution or derivative product;
+- distribute binaries or source derived from the Software;
+- incorporate substantial portions of the Software into another project;
+- use the Software for commercial purposes without a separate written license.
+
+4. PRIVATE / INTERNAL USE
+
+Private evaluation or internal review of the public repository is permitted
+only to the extent necessary to inspect the Software.
+
+Running, deploying, modifying, or incorporating the Software into a service,
+product, infrastructure, or organization without written permission is not
+authorized.
+
+5. CONTRIBUTIONS
+
+No contribution is accepted under this license unless the Copyright Owner
+expressly accepts it in writing.
+
+Any accepted contribution remains subject to the project's licensing and
+copyright requirements unless a separate written agreement states otherwise.
+
+6. THIRD-PARTY COMPONENTS
+
+Third-party libraries and dependencies included or referenced by HyperTERM may
+be governed by their own licenses. Those licenses remain applicable to the
+respective third-party components.
+
+This license does not revoke or supersede rights that cannot lawfully be
+restricted under an applicable third-party license.
+
+7. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, TITLE, OR NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT OWNER SHALL NOT BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR OTHER DAMAGES
+ARISING FROM OR RELATED TO THE SOFTWARE OR ITS USE.
+
+9. TERMINATION
+
+Any permission granted under a separate written agreement terminates
+automatically if its terms are violated.
+
+Upon termination, all unauthorized copies, deployments, and distributions must
+cease and be removed.
+
+10. ENFORCEMENT
+
+Unauthorized copying, redistribution, commercial use, modification,
+rebranding, or creation of derivative works may constitute copyright
+infringement or other legal violations.
+
+The Copyright Owner reserves all rights and remedies available under
+applicable law.
+
+11. COPYRIGHT
+
+Copyright © 2026 hyperNET. All rights reserved.
+
+For commercial licensing, redistribution permission, or other written
+permission, contact the Copyright Owner through the official hyperNET contact
+channels.
