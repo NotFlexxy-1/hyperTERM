@@ -1,5 +1,5 @@
 HYPERTERM PROPRIETARY SOFTWARE LICENSE
-Copyright (c) 2026 hyperNET. All rights reserved.
+Copyright (c) 2026 NotFlexxy-1. All rights reserved.
 
 1. DEFINITIONS
 
@@ -7,7 +7,7 @@ Copyright (c) 2026 hyperNET. All rights reserved.
 documentation, interfaces, designs, configuration, scripts, and other materials
 distributed with or as part of the Software.
 
-"Copyright Owner" means hyperNET and the copyright holder(s) identified in the
+"Copyright Owner" means NotFlexxy-1 and the copyright holder(s) identified in the
 repository.
 
 2. LICENSE GRANT
@@ -22,19 +22,19 @@ GPL, BSD, MPL, LGPL, or any other permissive or copyleft license.
 
 Without prior written permission from the Copyright Owner, you may NOT:
 
-- copy the Software or substantial portions of it;
-- reproduce, publish, mirror, or redistribute the Software;
-- modify, adapt, translate, or create derivative works;
-- fork or repackage the Software for distribution;
-- sublicense, sell, rent, lease, or transfer the Software;
-- use the Software or substantial portions of it to build or operate a
+* copy the Software or substantial portions of it;
+* reproduce, publish, mirror, or redistribute the Software;
+* modify, adapt, translate, or create derivative works;
+* fork or repackage the Software for distribution;
+* sublicense, sell, rent, lease, or transfer the Software;
+* use the Software or substantial portions of it to build or operate a
   competing product or service;
-- remove or alter copyright, trademark, license, or attribution notices;
-- use the HyperTERM or hyperNET name, logo, or branding for an unofficial
+* remove or alter copyright, trademark, license, or attribution notices;
+* use the HyperTERM or NotFlexxy-1 name, logo, or branding for an unofficial
   distribution or derivative product;
-- distribute binaries or source derived from the Software;
-- incorporate substantial portions of the Software into another project;
-- use the Software for commercial purposes without a separate written license.
+* distribute binaries or source derived from the Software;
+* incorporate substantial portions of the Software into another project;
+* use the Software for commercial purposes without a separate written license.
 
 4. PRIVATE / INTERNAL USE
 
@@ -93,8 +93,8 @@ applicable law.
 
 11. COPYRIGHT
 
-Copyright © 2026 hyperNET. All rights reserved.
+Copyright © 2026 NotFlexxy-1. All rights reserved.
 
 For commercial licensing, redistribution permission, or other written
-permission, contact the Copyright Owner through the official hyperNET contact
-channels.
+permission, contact the Copyright Owner through the official NotFlexxy-1
+contact channels.
